@@ -6,9 +6,9 @@ This project is a property listing web application and was built with Vue.js, Ta
 
 #### Each user can perform the listed features below;
 
-[X] Add a property
-[X] Delete a property belonging to them
-[X] Update the property
-[X] Change the cover image
-[X] Delete the cover image
-[X] Use editor to create property listings
++ [X] Add a property
++ [X] Delete a property belonging to them
++ [X] Update the property
++ [X] Change the cover image
++ [X] Delete the cover image
++ [X] Use editor to create property listings
